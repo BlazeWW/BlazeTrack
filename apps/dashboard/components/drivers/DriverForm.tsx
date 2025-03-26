@@ -127,6 +127,7 @@ const DriverForm = ({
 					onSubmit={form.handleSubmit(handleSubmit)}
 					className={'space-y-6 mb-8'}
 				>
+					{/* content goes here */}
 					<div className='flex items-center'>
 						<div className='flex-grow border-t border-gray-400'></div>
 						<span className='mx-4 text-sm text-gray-600'>Personal Details</span>
